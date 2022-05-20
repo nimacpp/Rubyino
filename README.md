@@ -1,8 +1,10 @@
 # Rubyino
 Translate ruby to arduino 
 ## install with gem 
-``` gem install rubyino  ```
-or 
+``` gem install rubyino  ``` 
+
+### or
+
 ```
 git clone https://github.com/nimacpp/Rubyino.git 
 cd Rubyino
